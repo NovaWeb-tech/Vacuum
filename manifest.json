@@ -1,1 +1,18 @@
+{
+  "name": "شركة فاكيوم للجروح",
+  "short_name": "فاكيوم للجروح",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f1f9ff",
+  "theme_color": "#002a4e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "Vac.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
 
