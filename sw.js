@@ -1,4 +1,4 @@
-const CACHE_NAME = 'vacuum-wound-v1';
+const CACHE_NAME = 'vacuum-wound-v2';
 const urlsToCache = [
   './index.html',
   './Vac.png',
