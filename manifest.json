@@ -1,6 +1,6 @@
 {
-  "name": "شركة فاكيوم للجروح",
-  "short_name": "فاكيوم للجروح",
+  "name": "Vacuum Heal",
+  "short_name": "Vac Heal ",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f1f9ff",
